@@ -17,3 +17,8 @@ docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:4.0-man
 ## Header
 
 <img src="./images/rabbitmq_header_exchange.png" alt="Not found" />
+
+## Topic
+
+<img src="./images/rabbitmq-topic-exchange.png" alt="Not found" />
+
